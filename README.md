@@ -123,5 +123,4 @@ Contributions are welcome! If you'd like to contribute to iChat, please follow t
 This project is licensed under the [MIT License](LICENSE).
 
 =======
-# Chat_Web_App
->>>>>>> 6672eb04583f8c1d08150036a19bec9940208f36
+
