@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iChat Web Application
 
 iChat is a real-time web chat application built with Flask and Socket.IO. It provides a seamless and interactive platform for users to communicate with each other through individual chat rooms.
@@ -121,3 +122,6 @@ Contributions are welcome! If you'd like to contribute to iChat, please follow t
 
 This project is licensed under the [MIT License](LICENSE).
 
+=======
+# Chat_Web_App
+>>>>>>> 6672eb04583f8c1d08150036a19bec9940208f36
